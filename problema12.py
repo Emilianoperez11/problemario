@@ -1,7 +1,7 @@
 suma = 0
 
-for i in range (10):
-    numero = float(input("ingrese el numero "))
+while suma <= 78500:
+    numero = float(input("ingrese valor"))
     suma += numero
 
-    print(f"suma de los  valores es: {suma:.2f}")
+    print(f"suma acumulada es:{suma:.2f}")
