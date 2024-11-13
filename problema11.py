@@ -1,7 +1,89 @@
-suma = 0
+numero = float(input("ingrese el numero"))
 
-while suma <= 78500:
-    numero = float(input("ingrese valor"))
-    suma += numero
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
 
-    print(f"suma acumulada es:{suma:.2f}")
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
+
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
+
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
+
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
+
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
+
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
+
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
+
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
+
+numero = float(input("ingrese el numero"))
+
+if numero < 10:
+    print("es menor que diez")
+elif 10 <=  numero  <= 100:
+    print("el numero esta comprendido entre 10 y 100")
+else :
+    print("el numero es mayor a 100")
